@@ -12,5 +12,5 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-//add comment
-//this is not appeared
+//add comment.
+//this is not appeared.
